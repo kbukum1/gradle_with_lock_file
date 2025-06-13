@@ -1,0 +1,30 @@
+# --- Gradle build output ---
+.gradle/
+build/
+
+# --- Gradle dependency caches ---
+**/build/
+**/.gradle/
+
+# --- IDEs ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# --- OS-generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Kotlin compile output ---
+out/
+
+# --- Logs ---
+*.log
+
+# --- Ignore local environment overrides ---
+local.properties
+*.env
+.env.local
+.env.*
