@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "2.0.0"       // or whatever Kotlin you prefer
+    kotlin("jvm") version "2.2.10"       // or whatever Kotlin you prefer
     application
 }
 
